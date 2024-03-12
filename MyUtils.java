@@ -3,7 +3,9 @@
 */
 
 /*
-  2024-03-12 - getProperties
+  2024-03-12 -  getProperties
+                getCfgValue
+                
 */
 
 public class MyUtils {
